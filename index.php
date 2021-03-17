@@ -118,9 +118,8 @@ else :
 </div>
 
 <?php
-    <h3> There is problem..</h3>
 endif;
  ?>
-
+  <h3> There is problem..</h3>
   </body>
 </html>
