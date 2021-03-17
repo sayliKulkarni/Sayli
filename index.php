@@ -87,7 +87,7 @@ else :
   <!-- <h2>Vertical (basic) form</h2> -->
   <h1 class="text-center">Feedback Form</h1>
   <!-- <form action="https://formspree.io/f/mvovelwk" method="post" id="my-form"> -->
-  <form action="#" method="post" id="my-form">
+  <form action="index.php" method="post" id="my-form">
 
 
     <div class="form-group">
