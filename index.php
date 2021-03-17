@@ -1,7 +1,7 @@
 <?php
-// echo "<pre>";
-//    print_r($_POST);
-// echo "</pre>";
+echo "<pre>";
+   print_r($_POST);
+echo "</pre>";
   $message_sent = false;
 if (isset($_POST['email']) && $_POST['email'] != '')
 {
