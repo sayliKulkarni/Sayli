@@ -79,6 +79,7 @@ if ($message_sent):
 <h3> Thanks, we will get back to you soon</h3>
 
 <?php
+    
 else :
  ?>
 
@@ -117,6 +118,7 @@ else :
 </div>
 
 <?php
+    <h3> There is problem..</h3>
 endif;
  ?>
 
